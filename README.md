@@ -8,5 +8,5 @@ You can install this with Homebrew or MacPorts.
 ## Installation
 Run the following commands on the console:
 ```
-curl -s https://cdn.rawgit.com/atreides322/vistafont-installer/master/vistafonts-installer | bash
+curl -s https://cdn.jsdelivr.net/gh/atreides322/vistafont-installer@master/vistafonts-installer | bash
 ```
